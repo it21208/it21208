@@ -5,7 +5,7 @@
 
 #### > Please check an introductory course of mine about Lean Six Sigma process improvement. Lean Six Sigma is streamlining processes results in improved customer experience and in increased loyalty. Watch the course on YouTube [https://www.youtube.com/watch?v=sRZurRa7cqo](https://www.youtube.com/watch?v=sRZurRa7cqo)
 
-Click the following buttons to read about my research work in Zenodo OpenAIRE.
+Click the next buttons to read about my research work in Zenodo OpenAIRE.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4697891.svg)](https://doi.org/10.5281/zenodo.4697891)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4698334.svg)](https://doi.org/10.5281/zenodo.4698334)
 
